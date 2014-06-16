@@ -1,0 +1,25 @@
+{
+  "name": "BuggyNotebook",
+  "version": "0.0.0",
+  "homepage": "https://github.com/hastebrot/BuggyNotebook",
+  "authors": [
+    "hastebrot <hastebrot@gmail.com>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "GPLv3",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "semantic-ui": "~0.18.0",
+    "underscore": "~1.6.0"
+  }
+}
